@@ -46,3 +46,11 @@ Project Folder Structure
          Css reset: Reboot, Resets and reasonning: css-tricks.com
          replace the basic on with the code inside of the layout css file
     Purchase Button
+
+4- Build GATSBY projects for deployment
+
+    1- gatsby clean
+    1- gatsby build
+
+
+![Website](new-site/sc.png")
