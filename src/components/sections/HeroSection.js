@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from "styled-components";
 import {H1, MediumText} from "../Styles/TextStyles";
-import PurchaseButton from "../Buttons/PurchaseButton";
+import PurchaseButton from "../buttons/PurchaseButton";
 import MockupAnimation from "../animations/MockupAnimation";
 
 function HeroSection() {
