@@ -17,6 +17,16 @@ export default function MockupAnimation(){
 const Wrapper = styled.div`
   position: relative;
   perspective: 5000;
+
+  //Ipad
+  @media (max-width: 768px){
+    transform: scale(0.6);
+    transform-origin: top left;
+  }
+  // Iphone
+  @media (max-width: 450px){
+    transform: scale(0.35);
+  }
   
   div {
     transform: rotateY(-20deg) rotateX(20deg);
