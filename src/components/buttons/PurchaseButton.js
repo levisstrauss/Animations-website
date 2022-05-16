@@ -5,7 +5,7 @@ import {Link} from "gatsby";
 
 export default function PurchaseButton({title, subtitle}) {
     return(
-        <Link to="/page-2">
+        <Link to="/">
             <Wrapper>
                 <IconWrapper>
                     <Icon src="/images/icons/credit.svg" className="icon"/>

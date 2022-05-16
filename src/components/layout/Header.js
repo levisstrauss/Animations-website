@@ -37,7 +37,7 @@ export default function Header() {
             </Link>
             <MenuWrapper count={menuData.length} ref={ref}>
             {menuData.map((item, index) =>
-                item.link === "/account" ?
+                item.link === "/" ?
                     (
                         <MenuButton
                             item={item}
