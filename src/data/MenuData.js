@@ -2,27 +2,27 @@ export const menuData = [
     {
         title: "Courses",
         icon: "/images/icons/courses.svg",
-        link: "/courses"
+        link: "/"
     },
     {
         title: "Tutorials",
         icon: "/images/icons/tutorials.svg",
-        link: "/tutorials"
+        link: "/"
     },
     {
         title: "Pricing",
         icon: "/images/icons/pricing.svg",
-        link: "/pricing"
+        link: "/"
     },
     {
         title: "",
         icon: "/images/icons/search.svg",
-        link: "/search"
+        link: "/"
     },
     {
         title: "",
         icon: "/images/icons/account.svg",
-        link: "/account"
+        link: "/"
     },
 ]
 
@@ -31,16 +31,16 @@ export const tooltipData = [
     {
         title: "Profile",
         icon: "/images/icons/profile.svg",
-        link: "/profile"
+        link: "/"
     },
     {
         title: "Settings",
         icon: "/images/icons/settings.svg",
-        link: "/settings"
+        link: "/"
     },
     {
         title: "Sign out",
         icon: "/images/icons/signout.svg",
-        link: "/logout"
+        link: "/"
     },
 ]
