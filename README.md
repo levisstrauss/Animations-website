@@ -53,4 +53,4 @@ Project Folder Structure
     1- gatsby build
 
 
-![Website](new-site/sc.png")
+![Website](sc.png)
